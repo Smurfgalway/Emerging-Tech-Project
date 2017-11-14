@@ -7,7 +7,7 @@ app = fl.Flask(__name__)
 
 @app.route("/")
 def name():
-    return render_template('Index.html')
+    return render_template('Main.html')
 
 
 if __name__ == "__main__":
