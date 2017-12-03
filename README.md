@@ -12,6 +12,9 @@ brief taken from Emerging Technologies [Project Repository](https://emerging-tec
 
 # References 
 [Tensorflow Tutorial](https://www.tensorflow.org/get_started/mnist/beginners)
+
 [Flask tutorial](http://flask.pocoo.org/docs/0.12/)
+
 [Canvas](https://www.w3schools.com/html/html5_canvas.asp)
+
 [Basic bootstrap](https://www.w3schools.com/bootstrap/default.asp)
