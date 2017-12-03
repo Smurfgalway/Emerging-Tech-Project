@@ -10,6 +10,21 @@ In this project you will create a web application in Python to recognise digits 
 4. Connect the HTML page to the route using AJAX.
 brief taken from Emerging Technologies [Project Repository](https://emerging-technologies.github.io/problems/project.html)
 
+# Technologies/Artechture
+
+
+# How to Run
+1. Download zip file from my github.
+2. Unzip the folder in your prefered workspace.
+3. Open some form of command line be it [command prompt](https://www.lifewire.com/command-prompt-2625840) on microsoft devices, [cmdr](http://cmder.net/), [Terminal](https://www.macworld.co.uk/feature/mac-software/how-use-terminal-on-mac-3608274/) on apple devices, or [anaconda prompt](https://anaconda.org/anaconda/python)
+4. In your instance of command line navigate into the directory where you unzipped the folder.
+5. To run the command "python Main.py" it will launch the html page in your browser.
+6. The html page will run on your local host  http://127.0.0.1:5000/.
+# Requirements for running
+Installed instance of Python
+Tensor flow installed
+Flask Installed
+
 # References 
 [Tensorflow Tutorial](https://www.tensorflow.org/get_started/mnist/beginners)
 
