@@ -16,8 +16,8 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 @app.route("/")
 def name():
     return render_template('Main.html')
-@app.route("/UploadImages" ['POST'])
-def upload_file():
+#@app.route("/UploadImages" ['POST'])
+#def upload_file():
 
 
 if __name__ == "__main__":

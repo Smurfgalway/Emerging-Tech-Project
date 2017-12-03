@@ -10,7 +10,13 @@ In this project you will create a web application in Python to recognise digits 
 4. Connect the HTML page to the route using AJAX.
 brief taken from Emerging Technologies [Project Repository](https://emerging-technologies.github.io/problems/project.html)
 
-# Technologies/Artechture
+# Technologies/Architecture
+[Tensorflow](https://www.tensorflow.org/) is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well.
+
+[Flask](http://flask.pocoo.org/)  is a micro web framework written in Python and based on the Werkzeug toolkit and Jinja2 template engine. It is BSD licensed. The latest stable version of Flask is 0.12.2 as of May 2017. Applications that use the Flask framework include Pinterest, LinkedIn, and the community web page for Flask itself. Flask is called a micro framework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. However, Flask supports extensions that can add application features as if they were implemented in Flask itself. Extensions exist for object-relational mappers, form validation, upload handling, various open authentication technologies and several common framework related tools. Extensions are updated far more regularly than the core Flask program.
+
+The famous [MNIST](http://yann.lecun.com/exdb/mnist/) data set. The MNIST database of handwritten digits, available from this page, has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. The digits have been size-normalized and centered in a fixed-size image.
+
 
 
 # How to Run
@@ -21,10 +27,10 @@ brief taken from Emerging Technologies [Project Repository](https://emerging-tec
 5. To run the command "python Main.py" it will launch the html page in your browser.
 6. The html page will run on your local host  http://127.0.0.1:5000/.
 # Requirements for running
-Installed instance of Python
-Tensor flow installed
-Flask Installed
-
+1. Installed instance of Python
+2. Anaconda installed
+3. Tensor flow installed
+4. Flask Installed
 # References 
 [Tensorflow Tutorial](https://www.tensorflow.org/get_started/mnist/beginners)
 
