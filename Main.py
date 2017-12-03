@@ -1,7 +1,7 @@
 #Main Python page using flask framework
 
 import flask as fl
-from flask import render_template, g, request# imports the render template property which allows html pages be loaded as the template for the pages on the server
+from flask import render_template, request# imports the render template property which allows html pages be loaded as the template for the pages on the server
 
 app = fl.Flask(__name__)
 
